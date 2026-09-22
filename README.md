@@ -67,6 +67,8 @@ Customers were analyzed using:
 
 ### Sales Performance Dashboard
 
+Live report hosted on Power BI Service (view access restricted by institutional tenant policy) — PDF export and screenshots included below for preview."
+
 ![Sales Performance Dashboard](sales-performance-dashboard.png)
 
 ### Customer Segmentation Dashboard
